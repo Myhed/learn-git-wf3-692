@@ -1,3 +1,9 @@
 # Introduction Git
 
-git status sert à voir l'état des fichiers
+git status 
+git add -N
+git add 
+git push 
+git push -u
+git remote
+git commit -m
